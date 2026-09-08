@@ -1,2 +1,2 @@
 f3.txt of feature
-upated in feature
+upadted one in release 
